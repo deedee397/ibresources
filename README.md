@@ -1,1 +1,1 @@
-# ib_resources
+# ibresources
